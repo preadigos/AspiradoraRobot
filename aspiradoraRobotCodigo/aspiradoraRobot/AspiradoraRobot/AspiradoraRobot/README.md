@@ -1,2 +1,0 @@
-# AspiradoraRobot
-TP Aspiradora Robot
